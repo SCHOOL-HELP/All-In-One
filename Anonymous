@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar a %3D document.createElement("script")%3B%0Aa.src %3D "https%3A%2F%2Fanonymouss.org%2Fbookmarklet%2Findex.js"%3B%0Adocument.body.appendChild(a)%3B%7D)()%3B
